@@ -1,8 +1,8 @@
 const listaDellaSpesa = [
     "acqua",
+    "pane",
     "olio",
-    "linguine",
-    "guanciale",
+    "pomodori",
     "uova"
 ];
 
